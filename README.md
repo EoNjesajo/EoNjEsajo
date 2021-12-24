@@ -18,12 +18,14 @@
 - ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 # Personal Projects & Experience
-  |구분|프로젝트 명|진행시기|
-  |---|------|-------|
-  |Python|[텀프로젝트(Dacon)](https://github.com/EoNjesajo/Python-Data_Analysis)|21.06|
-  |Android|[포켓몬 도감](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)|21.06|<br><br>
+  |구분|프로젝트 명|진행시기|비고|
+  |---|------|-------|---|
+  |Python|[텀프로젝트(Dacon)](https://github.com/EoNjesajo/Python-Data_Analysis)|21.06|전공수업|
+  |Android|[포켓몬 도감](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)|21.06|전공수업|<br><br>
   
 # Team Projects & Experience
-  |구분|프로젝트 명|진행시기|
-  |---|------|-------|
-  |Android|[대전광역시 코로나 알리미](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)|21.06| <br><br>
+  |구분|프로젝트 명|진행시기|팀|
+  |---|------|-------|---|
+  |Android|[대전광역시 코로나 알리미](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)|21.06|데이터조각|
+  |Android|[코데믹(전국단위 코로나 정보)](https://github.com/EoNjesajo/Android-KorDemic)|21.07 - 21.08|데이터조각|
+  |Python|[SIA Project](https://github.com/EoNjesajo/Python-SIA_Project)|21.07 - 21.08|무작위 4인|<br><br>
