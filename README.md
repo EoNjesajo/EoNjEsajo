@@ -3,7 +3,7 @@
 - 안녕하세요. 대학생 3학년 개발자 김원겸입니다.
 - 어린 시절 플래시로 게임을 개발하는 즐거움에서 시작하여, 현재에 이르게 되었습니다.
 - 겉핥기보다는 꾸준한 노력을 통한 완전한 이해를 중요시하기에, 1일 1코딩을 목표로 하고 있습니다.
-- 게임과 게임엔진, 그리고 인공지능에 관심이 많습니다.
+- 게임&게임엔진, 그리고 인공지능에 관심이 많습니다.
  
 ## Contact
 - Email | dnjsrua59@gmail.com
@@ -22,6 +22,11 @@
   |---|------|-------|---|
   |Python|[텀프로젝트(Dacon)](https://github.com/EoNjesajo/Python-Data_Analysis)|21.06|전공수업|
   |Android|[포켓몬 도감](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)|21.06|전공수업|<br><br>
+
+  |구분|명칭|진행시기|
+  |---|------|-------|
+  |Python|[백준 풀이]()|21.12-|
+  |C++|[백준 풀이]()|21.12-|<br><br>
   
 # Team Projects & Experience
   |구분|프로젝트 명|진행시기|팀|
