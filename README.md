@@ -1,4 +1,6 @@
-![Won](https://user-images.githubusercontent.com/90492809/147329381-753553ca-d5e0-4c56-b0a3-76d707b0fdb2.png)
+# 김원겸(언제사줘)
+ ![Won](https://user-images.githubusercontent.com/90492809/147329381-753553ca-d5e0-4c56-b0a3-76d707b0fdb2.png)
+
 ## Introduction
 - 안녕하세요. 대학생 3학년 개발자 김원겸입니다.
 - 어린 시절 플래시로 게임을 개발하는 즐거움에서 시작하여, 현재에 이르게 되었습니다.
@@ -13,6 +15,7 @@
 - 아직까지 초보 개발자이기에, 프로젝트를 진행하면서 한 번 이상 사용해본 것들을 작성합니다.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 # Personal Projects & Experience
