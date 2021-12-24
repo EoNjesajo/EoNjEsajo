@@ -1,4 +1,4 @@
-# 김원겸(언제사줘)
+![Won](https://user-images.githubusercontent.com/90492809/147329381-753553ca-d5e0-4c56-b0a3-76d707b0fdb2.png)
 ## Introduction
 - 안녕하세요. 대학생 3학년 개발자 김원겸입니다.
 - 어린 시절 플래시로 게임을 개발하는 즐거움에서 시작하여, 현재에 이르게 되었습니다.
