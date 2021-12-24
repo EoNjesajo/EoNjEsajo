@@ -25,8 +25,8 @@
 
   |구분|명칭|진행시기|
   |---|------|-------|
-  |Python|[백준 풀이]()|21.12-|
-  |C++|[백준 풀이]()|21.12-|<br><br>
+  |Python|[백준 풀이](https://github.com/EoNjesajo/Python-BaekJoon)|21.12-|
+  |C++|[백준 풀이](https://github.com/EoNjesajo/Cpp-BaekJoon)|21.12-|<br><br>
   
 # Team Projects & Experience
   |구분|프로젝트 명|진행시기|팀|
