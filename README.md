@@ -36,4 +36,5 @@
   |Python|[SIA Project](https://github.com/EoNjesajo/Python-SIA_Project)|21.11 - 21.12|무작위 4인|<br><br>
    
 # Education
-- 한밭대학교
+## 한밭대학교 컴퓨터공학과
+- 2019.03 ~
