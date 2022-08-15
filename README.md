@@ -23,10 +23,8 @@
 
   |구분|명칭|진행시기|
   |---|------|-------|
-  |Python|[백준 풀이](https://github.com/EoNjesajo/Python-BaekJoon)|21.12-|
   |C++|[백준 풀이](https://github.com/EoNjesajo/Cpp-BaekJoon)|21.12-|<br><br>
   
-  *기존 푼 문제에 대한 해설을 위해 1월 10일부터 재개
 
 # Team Projects & Experience
   |구분|프로젝트 명|진행시기|팀|
