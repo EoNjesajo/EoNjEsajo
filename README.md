@@ -32,7 +32,9 @@
   |---|------|-------|---|
   |Android|[대전광역시 코로나 알리미](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)|21.06|[데이터조각](https://github.com/EoNjesajo/PoData)|
   |Android|[코데믹(전국단위 코로나 정보)](https://github.com/EoNjesajo/Android-KorDemic)|21.07 - 21.08|[데이터조각](https://github.com/EoNjesajo/PoData)|
-  |Python|[SIA Project](https://github.com/EoNjesajo/Python-SIA_Project)|21.11 - 21.12|무작위 4인|<br><br>
+  |Python|[SIA Project](https://github.com/EoNjesajo/Python-SIA_Project)|21.11 - 21.12|무작위 4인|
+  |Python|[Capstone](https://github.com/EoNjesajo/evsim_TGB)|22.01 - |3인|<br><br>
+  
 
 # Education
 - 한밭대학교
