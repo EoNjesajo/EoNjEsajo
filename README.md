@@ -21,9 +21,11 @@
   |Android|[포켓몬 도감](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)|21.06|전공수업|<br><br>
 
 ## Baekjoon(every day)  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Cpp-Baekjoon)](https://github.com/EoNjesajo/Cpp-Baekjoon)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=C-Hash_Baekjoon)](https://github.com/EoNjesajo/C-Hash_Baekjoon)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjs0680)](https://solved.ac/dnjs0680)
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Cpp-Baekjoon)](https://github.com/EoNjesajo/Cpp-Baekjoon)
+  
 # Team Projects & Experience
 ## PoData
 ### Android
