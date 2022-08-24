@@ -9,9 +9,9 @@
 - Email | dnjsrua59@gmail.com
 
 # Stats & Skills
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EoNjEsajo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EoNjEsajo)](https://github.com/EoNjesajo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EoNjEsajo&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EoNjEsajo&layout=compact&hide=python)](https://github.com/EoNjesajo)
 
 
 # Personal Projects & Experience
