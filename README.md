@@ -21,17 +21,17 @@
   |Android|[포켓몬 도감](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)|21.06|전공수업|<br><br>
 
 ## Baekjoon(every day)  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Cpp-Baekjoon)](https://github.com/anuraghazra/github-readme-stats)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=C-Hash_Baekjoon)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Cpp-Baekjoon)](https://github.com/EoNjesajo/Cpp-Baekjoon)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=C-Hash_Baekjoon)](https://github.com/EoNjesajo/C-Hash_Baekjoon)
 
 # Team Projects & Experience
 ## PoData
 ### Android
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Android-Daejeon_COVID19_Notification)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Android-KorDemic)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Android-Daejeon_COVID19_Notification)](https://github.com/EoNjesajo/Android-Daejeon_COVID19_Notification)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Android-KorDemic)](https://github.com/EoNjesajo/Android-KorDemic)
 ## Etc
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Python-SIA_Project)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=evsim_TGB)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=Python-SIA_Project)](https://github.com/EoNjesajo/Python-SIA_Project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EoNjEsajo&repo=evsim_TGB)](https://github.com/evsim_TGB)
 
 # Education
 - 한밭대학교
