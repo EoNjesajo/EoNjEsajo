@@ -5,15 +5,17 @@
 - 겉핥기보다는 꾸준한 노력을 통한 완전한 이해를 중요시하기에, 1일 1코딩을 목표로 하고 있습니다.
 - 게임 & 게임엔진과 인공지능에 관심이 많습니다.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EoNjEsajo)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 - Email | dnjsrua59@gmail.com
 
 # Skills
-
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EoNjEsajo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Personal Projects & Experience
