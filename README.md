@@ -6,7 +6,7 @@
 - 게임 & 게임엔진, 컴퓨터 그래픽스, 인공지능에 관심이 많습니다.
 
 ## Contact
-- Email | dnjsrua59@gmail.com
+- Email | dnjsrua59@dgu.ac.kr
 
 # Stats & Skills
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EoNjEsajo)](https://github.com/EoNjesajo)
